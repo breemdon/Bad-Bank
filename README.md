@@ -1,11 +1,11 @@
 # Bad-Bank
 
-##Description
+## Description
 
-##Installation Guidelines
+## Installation Guidelines
 
-##Screenshots
+## Screenshots
 
-##Technology Used
+## Technology Used
 
-##Features
+## Features
